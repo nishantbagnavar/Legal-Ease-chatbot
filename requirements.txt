@@ -9,6 +9,8 @@ langchain-core
 langchain-community
 langchain-groq
 langchain-huggingface
+googlesearch-python
+
 
 # Embeddings and vector store
 faiss-cpu
