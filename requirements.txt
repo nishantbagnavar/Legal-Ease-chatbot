@@ -1,0 +1,32 @@
+# Core functionality
+streamlit
+python-dotenv
+requests # For general HTTP requests, including Wikipedia API (though replaced, good to keep for general use)
+
+# LangChain ecosystem
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-huggingface
+
+# Embeddings and vector store
+faiss-cpu
+sentence-transformers
+transformers
+
+# Document processing
+pypdf            # For PDF files
+python-pptx      # For PowerPoint (.pptx) files
+python-docx      # For Word (.docx) files
+xlrd             # For older Excel (.xls) files
+pandas           # For CSV and general data handling, used in Excel/CSV processing
+beautifulsoup4   # For HTML and XML file parsing
+
+# Multilingual support
+deep_translator
+
+# Utilities
+tqdm
+numpy
+certifi
